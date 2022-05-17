@@ -14,7 +14,7 @@ https://kdocs.cn/l/cmqB5kYnODzN
 https://kdocs.cn/l/cp7ppdbff6Yw
 
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/wuidbh23/dadf)
+[![](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/wuidbh23/sdaf)
 https://dashboard.heroku.com/new?template=
 
 ### heroku上部署v2ray
